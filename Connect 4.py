@@ -1,4 +1,9 @@
-#================================================= Connect 4 ========================================================#
+# Purpose: 100 game.
+# Description: it is a game that when you put 4 x in any shap or 4 o in any shap , you win.
+# Author: Esraa Emary Abd Elsalam.
+#version: 4.
+#*******************************************************************************************************
+
 Player1 = "Player 1" #definition for some variables
 Player2 = "Player 2"
 check = False
