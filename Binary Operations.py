@@ -1,5 +1,7 @@
-#Program to apply some operations at binary numbders.
-
+# Purpose: 100 game.
+# Description: Program to apply some operations at binary numbders.
+# Author: Esraa Emary Abd Elsalam.
+#version: 4.
 #******************************************************
 #first complement
 
