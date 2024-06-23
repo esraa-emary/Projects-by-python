@@ -1,4 +1,4 @@
-# Purpose: 100 game.
+# Purpose: Binary Operations.
 # Description: Program to apply some operations at binary numbders.
 # Author: Esraa Emary Abd Elsalam.
 #version: 4.
